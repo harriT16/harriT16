@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @harriT16
-- 👀 I’m interested in CS-algorithms
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently a CS major
 - 📫 How to reach me: quyhoangtp@gmail.com
