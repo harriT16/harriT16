@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @harriT16
 - 🌱 I’m currently a CS major
-- 📫 How to reach me: quyhoangtp@gmail.com
+- 📫 How to reach me: quyhoangtp14@gmail.com
